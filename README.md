@@ -1,4 +1,7 @@
+<img align="left" height="170" src="computer.gif"/>
 
-  ![Snake animation](https://github.com/balah7/balah7/blob/output/github-contribution-grid-snake.svg)
- 
+```diff
 
+@@im Rafael, trying to program something@@
++ im from brazil
+# 
