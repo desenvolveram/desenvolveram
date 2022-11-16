@@ -1,4 +1,4 @@
-## Hello, I'm Rafael, a little programming student.
+## programming student.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Icon_js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
